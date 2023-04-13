@@ -1,0 +1,26 @@
+{
+    "intents" : [
+        {
+            "tags": "greeting",
+            "patterns": [
+                "Hi",
+                "Hey",
+                "hello"
+            ],
+            "responses": [
+                "Hello",
+                "Hows it going?"
+            ]
+        },
+        {
+            "tags": "awake",
+            "patterns": [
+                "Hey Ultron",
+                "Hey Ultra",
+                "Hey Ultra on"
+            ],
+            "responses": [
+            ]
+        }
+    ]
+}

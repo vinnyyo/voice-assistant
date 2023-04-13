@@ -1,0 +1,4 @@
+speechrecognition
+#git+https://github.com/NeuralNine/neuralintents.git
+neuralintents
+pyttsx3
